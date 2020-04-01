@@ -1,2 +1,3 @@
 3017104293
-Curso: Sistemas da informação 
+Curso: Sistemas de Informação
+Disciplina: Automação de Processos
